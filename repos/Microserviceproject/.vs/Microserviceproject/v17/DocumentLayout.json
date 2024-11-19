@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Microserviceproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1D1678-9D75-4A98-B42E-2D2C090F221D}|Microserviceproject.Services.AuthAPI\\Microserviceproject.Services.AuthAPI.csproj|c:\\users\\administrator\\source\\repos\\microserviceproject\\microserviceproject.services.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F1D1678-9D75-4A98-B42E-2D2C090F221D}|Microserviceproject.Services.AuthAPI\\Microserviceproject.Services.AuthAPI.csproj|solutionrelative:microserviceproject.services.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1D1678-9D75-4A98-B42E-2D2C090F221D}|Microserviceproject.Services.AuthAPI\\Microserviceproject.Services.AuthAPI.csproj|c:\\users\\administrator\\source\\repos\\microserviceproject\\microserviceproject.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F1D1678-9D75-4A98-B42E-2D2C090F221D}|Microserviceproject.Services.AuthAPI\\Microserviceproject.Services.AuthAPI.csproj|solutionrelative:microserviceproject.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1D1678-9D75-4A98-B42E-2D2C090F221D}|Microserviceproject.Services.AuthAPI\\Microserviceproject.Services.AuthAPI.csproj|c:\\users\\administrator\\source\\repos\\microserviceproject\\microserviceproject.services.authapi\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F1D1678-9D75-4A98-B42E-2D2C090F221D}|Microserviceproject.Services.AuthAPI\\Microserviceproject.Services.AuthAPI.csproj|solutionrelative:microserviceproject.services.authapi\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1D1678-9D75-4A98-B42E-2D2C090F221D}|Microserviceproject.Services.AuthAPI\\Microserviceproject.Services.AuthAPI.csproj|c:\\users\\administrator\\source\\repos\\microserviceproject\\microserviceproject.services.authapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F1D1678-9D75-4A98-B42E-2D2C090F221D}|Microserviceproject.Services.AuthAPI\\Microserviceproject.Services.AuthAPI.csproj|solutionrelative:microserviceproject.services.authapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1D1678-9D75-4A98-B42E-2D2C090F221D}|Microserviceproject.Services.AuthAPI\\Microserviceproject.Services.AuthAPI.csproj|c:\\users\\administrator\\source\\repos\\microserviceproject\\microserviceproject.services.authapi\\models\\dto\\registrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F1D1678-9D75-4A98-B42E-2D2C090F221D}|Microserviceproject.Services.AuthAPI\\Microserviceproject.Services.AuthAPI.csproj|solutionrelative:microserviceproject.services.authapi\\models\\dto\\registrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1D1678-9D75-4A98-B42E-2D2C090F221D}|Microserviceproject.Services.AuthAPI\\Microserviceproject.Services.AuthAPI.csproj|c:\\users\\administrator\\source\\repos\\microserviceproject\\microserviceproject.services.authapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F1D1678-9D75-4A98-B42E-2D2C090F221D}|Microserviceproject.Services.AuthAPI\\Microserviceproject.Services.AuthAPI.csproj|solutionrelative:microserviceproject.services.authapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Microserviceproject\\Microserviceproject.Services.AuthAPI\\Models\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "Microserviceproject.Services.AuthAPI\\Models\\Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Microserviceproject\\Microserviceproject.Services.AuthAPI\\Models\\Dto\\UserDto.cs",
+              "RelativeToolTip": "Microserviceproject.Services.AuthAPI\\Models\\Dto\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T03:48:06.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Microserviceproject\\Microserviceproject.Services.AuthAPI\\Models\\Dto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "Microserviceproject.Services.AuthAPI\\Models\\Dto\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Microserviceproject\\Microserviceproject.Services.AuthAPI\\Models\\Dto\\ResponseDto.cs",
+              "RelativeToolTip": "Microserviceproject.Services.AuthAPI\\Models\\Dto\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:19:20.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrationRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Microserviceproject\\Microserviceproject.Services.AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
+              "RelativeDocumentMoniker": "Microserviceproject.Services.AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Microserviceproject\\Microserviceproject.Services.AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
+              "RelativeToolTip": "Microserviceproject.Services.AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:19:18.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Microserviceproject\\Microserviceproject.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "RelativeDocumentMoniker": "Microserviceproject.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Microserviceproject\\Microserviceproject.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "RelativeToolTip": "Microserviceproject.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:41:27.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Microserviceproject\\Microserviceproject.Services.AuthAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Microserviceproject.Services.AuthAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Microserviceproject\\Microserviceproject.Services.AuthAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Microserviceproject.Services.AuthAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T04:51:49.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Microserviceproject\\Microserviceproject.Services.AuthAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Microserviceproject.Services.AuthAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Microserviceproject\\Microserviceproject.Services.AuthAPI\\Program.cs",
+              "RelativeToolTip": "Microserviceproject.Services.AuthAPI\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:04:24.689Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

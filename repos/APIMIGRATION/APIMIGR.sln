@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIMIGR", "APIMIGR\APIMIGR.csproj", "{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F1FA62C-79D4-4D19-9297-4B9DB0B201E9}
+	EndGlobalSection
+EndGlobal

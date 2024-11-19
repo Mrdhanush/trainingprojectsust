@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mvcempty1.props" />
+</Project>

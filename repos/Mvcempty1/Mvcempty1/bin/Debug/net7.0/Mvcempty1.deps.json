@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Mvcempty1/1.0.0": {
+        "runtime": {
+          "Mvcempty1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mvcempty1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

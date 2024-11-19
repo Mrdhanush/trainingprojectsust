@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\LanguageTranslator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53F45867-0879-40F4-B2A7-11424476B71D}|LanguageTranslator\\LanguageTranslator.csproj|c:\\users\\administrator\\source\\repos\\languagetranslator\\languagetranslator\\views\\word\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53F45867-0879-40F4-B2A7-11424476B71D}|LanguageTranslator\\LanguageTranslator.csproj|solutionrelative:languagetranslator\\views\\word\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F45867-0879-40F4-B2A7-11424476B71D}|LanguageTranslator\\LanguageTranslator.csproj|c:\\users\\administrator\\source\\repos\\languagetranslator\\languagetranslator\\controllers\\wordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F45867-0879-40F4-B2A7-11424476B71D}|LanguageTranslator\\LanguageTranslator.csproj|solutionrelative:languagetranslator\\controllers\\wordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F45867-0879-40F4-B2A7-11424476B71D}|LanguageTranslator\\LanguageTranslator.csproj|c:\\users\\administrator\\source\\repos\\languagetranslator\\languagetranslator\\models\\wordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F45867-0879-40F4-B2A7-11424476B71D}|LanguageTranslator\\LanguageTranslator.csproj|solutionrelative:languagetranslator\\models\\wordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F45867-0879-40F4-B2A7-11424476B71D}|LanguageTranslator\\LanguageTranslator.csproj|c:\\users\\administrator\\source\\repos\\languagetranslator\\languagetranslator\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53F45867-0879-40F4-B2A7-11424476B71D}|LanguageTranslator\\LanguageTranslator.csproj|solutionrelative:languagetranslator\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F45867-0879-40F4-B2A7-11424476B71D}|LanguageTranslator\\LanguageTranslator.csproj|c:\\users\\administrator\\source\\repos\\languagetranslator\\languagetranslator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F45867-0879-40F4-B2A7-11424476B71D}|LanguageTranslator\\LanguageTranslator.csproj|solutionrelative:languagetranslator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LanguageTranslator\\LanguageTranslator\\Views\\Word\\Index.cshtml",
+              "RelativeDocumentMoniker": "LanguageTranslator\\Views\\Word\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LanguageTranslator\\LanguageTranslator\\Views\\Word\\Index.cshtml",
+              "RelativeToolTip": "LanguageTranslator\\Views\\Word\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T03:54:07.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LanguageTranslator\\LanguageTranslator\\Program.cs",
+              "RelativeDocumentMoniker": "LanguageTranslator\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LanguageTranslator\\LanguageTranslator\\Program.cs",
+              "RelativeToolTip": "LanguageTranslator\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:41:45.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LanguageTranslator\\LanguageTranslator\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LanguageTranslator\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LanguageTranslator\\LanguageTranslator\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LanguageTranslator\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T03:40:16.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LanguageTranslator\\LanguageTranslator\\Controllers\\WordController.cs",
+              "RelativeDocumentMoniker": "LanguageTranslator\\Controllers\\WordController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LanguageTranslator\\LanguageTranslator\\Controllers\\WordController.cs",
+              "RelativeToolTip": "LanguageTranslator\\Controllers\\WordController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:38:30.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WordModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LanguageTranslator\\LanguageTranslator\\Models\\WordModel.cs",
+              "RelativeDocumentMoniker": "LanguageTranslator\\Models\\WordModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LanguageTranslator\\LanguageTranslator\\Models\\WordModel.cs",
+              "RelativeToolTip": "LanguageTranslator\\Models\\WordModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:36:12.567Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

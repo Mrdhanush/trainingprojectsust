@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\JWTAuthApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB47C3A-3D46-47CE-BFBF-01951FA6BC8A}|JWTAuthApi\\JWTAuthApi.csproj|c:\\users\\administrator\\source\\repos\\jwtauthapi\\jwtauthapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB47C3A-3D46-47CE-BFBF-01951FA6BC8A}|JWTAuthApi\\JWTAuthApi.csproj|solutionrelative:jwtauthapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB47C3A-3D46-47CE-BFBF-01951FA6BC8A}|JWTAuthApi\\JWTAuthApi.csproj|c:\\users\\administrator\\source\\repos\\jwtauthapi\\jwtauthapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB47C3A-3D46-47CE-BFBF-01951FA6BC8A}|JWTAuthApi\\JWTAuthApi.csproj|solutionrelative:jwtauthapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB47C3A-3D46-47CE-BFBF-01951FA6BC8A}|JWTAuthApi\\JWTAuthApi.csproj|c:\\users\\administrator\\source\\repos\\jwtauthapi\\jwtauthapi\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB47C3A-3D46-47CE-BFBF-01951FA6BC8A}|JWTAuthApi\\JWTAuthApi.csproj|solutionrelative:jwtauthapi\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB47C3A-3D46-47CE-BFBF-01951FA6BC8A}|JWTAuthApi\\JWTAuthApi.csproj|c:\\users\\administrator\\source\\repos\\jwtauthapi\\jwtauthapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5DB47C3A-3D46-47CE-BFBF-01951FA6BC8A}|JWTAuthApi\\JWTAuthApi.csproj|solutionrelative:jwtauthapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB47C3A-3D46-47CE-BFBF-01951FA6BC8A}|JWTAuthApi\\JWTAuthApi.csproj|c:\\users\\administrator\\source\\repos\\jwtauthapi\\jwtauthapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB47C3A-3D46-47CE-BFBF-01951FA6BC8A}|JWTAuthApi\\JWTAuthApi.csproj|solutionrelative:jwtauthapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB47C3A-3D46-47CE-BFBF-01951FA6BC8A}|JWTAuthApi\\JWTAuthApi.csproj|c:\\users\\administrator\\source\\repos\\jwtauthapi\\jwtauthapi\\jwtauthapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5DB47C3A-3D46-47CE-BFBF-01951FA6BC8A}|JWTAuthApi\\JWTAuthApi.csproj|solutionrelative:jwtauthapi\\jwtauthapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\JWTAuthApi\\JWTAuthApi\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "JWTAuthApi\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\JWTAuthApi\\JWTAuthApi\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "JWTAuthApi\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:12:49.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\JWTAuthApi\\JWTAuthApi\\Program.cs",
+              "RelativeDocumentMoniker": "JWTAuthApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\JWTAuthApi\\JWTAuthApi\\Program.cs",
+              "RelativeToolTip": "JWTAuthApi\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:56:08.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\JWTAuthApi\\JWTAuthApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JWTAuthApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\JWTAuthApi\\JWTAuthApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JWTAuthApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:52:24.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jwtsettings.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\JWTAuthApi\\JWTAuthApi\\Models\\Jwtsettings.cs",
+              "RelativeDocumentMoniker": "JWTAuthApi\\Models\\Jwtsettings.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\JWTAuthApi\\JWTAuthApi\\Models\\Jwtsettings.cs",
+              "RelativeToolTip": "JWTAuthApi\\Models\\Jwtsettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:50:49.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JWTAuthApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\JWTAuthApi\\JWTAuthApi\\JWTAuthApi.csproj",
+              "RelativeDocumentMoniker": "JWTAuthApi\\JWTAuthApi.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\JWTAuthApi\\JWTAuthApi\\JWTAuthApi.csproj",
+              "RelativeToolTip": "JWTAuthApi\\JWTAuthApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-14T11:50:08.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\JWTAuthApi\\JWTAuthApi\\appsettings.json",
+              "RelativeDocumentMoniker": "JWTAuthApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\JWTAuthApi\\JWTAuthApi\\appsettings.json",
+              "RelativeToolTip": "JWTAuthApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T11:49:12.497Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
